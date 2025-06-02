@@ -1,0 +1,29 @@
+[project]
+name = "llm-tools-openapi"
+version = "0.1"
+description = "a plugins that allow to use OpenAPI as a tools"
+readme = "README.md"
+authors = [{name = "Olivier GG"}]
+license = "Apache-2.0"
+classifiers = []
+requires-python = ">=3.9"
+dependencies = [
+    "llm>=0.26",
+    "requests"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://github.com/oliviergg/llm-tools-openapi"
+Changelog = "https://github.com/oliviergg/llm-tools-openapi/releases"
+Issues = "https://github.com/oliviergg/llm-tools-openapi/issues"
+CI = "https://github.com/oliviergg/llm-tools-openapi/actions"
+
+[project.entry-points.llm]
+llm_tools_openapi = "llm_tools_openapi"
+
+[project.optional-dependencies]
+test = ["pytest", "llm-echo>=0.3a1"]

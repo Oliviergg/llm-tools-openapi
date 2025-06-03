@@ -126,6 +126,54 @@ use snapshot and not screenshot" --cl 30
 ```
 
 You will obtain a md file with the content you want.
+    ---
+    title: Hacker News - Top 5 Articles
+    type: note
+    permalink: hacker-news/hacker-news-top-5-articles
+    tags:
+    - '#news'
+    - '#technology'
+    ---
+    
+    1. **Deep learning gets the glory, deep fact checking gets ignored**  
+       [Read more](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)  
+       Site: fast.ai  
+       - Points: 73  
+       - Author: chmaynard  
+       - Comments: 5  
+       - Posted: 55 minutes ago  
+    
+    2. **Destination: Jupiter**  
+       [Read more](https://clarkesworldmagazine.com/liptak_06_25/)  
+       Site: clarkesworldmagazine.com  
+       - Points: 52  
+       - Author: AndrewLiptak  
+       - Comments: 13  
+       - Posted: 2 hours ago  
+    
+    3. **Quarkdown: A modern Markdown-based typesetting system**  
+       [Read more](https://github.com/iamgio/quarkdown)  
+       Site: github.com/iamgio  
+       - Points: 555  
+       - Author: asicsp  
+       - Comments: 238  
+       - Posted: 14 hours ago  
+    
+    4. **Show HN: AirAP AirPlay server - AirPlay to an iOS Device**  
+       [Read more](https://github.com/neon443/AirAP)  
+       Site: github.com/neon443  
+       - Points: 106  
+       - Author: neon443  
+       - Comments: 11  
+       - Posted: 2 hours ago  
+    
+    5. **A deep dive into self-improving AI and the Darwin-Gödel Machine**  
+       [Read more](https://richardcsuwandi.github.io/blog/2025/dgm/)  
+       Site: richardcsuwandi.github.io  
+       - Points: 7  
+       - Author: hardmaru  
+       - Comments: Discuss  
+       - Posted: 1 hour ago
 
 
 ## Summary

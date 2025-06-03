@@ -151,21 +151,7 @@ You will obtain a md file with the content you want.
        - Comments: 13  
        - Posted: 2 hours ago  
     
-    3. **Quarkdown: A modern Markdown-based typesetting system**  
-       [Read more](https://github.com/iamgio/quarkdown)  
-       Site: github.com/iamgio  
-       - Points: 555  
-       - Author: asicsp  
-       - Comments: 238  
-       - Posted: 14 hours ago  
-    
-    4. **Show HN: AirAP AirPlay server - AirPlay to an iOS Device**  
-       [Read more](https://github.com/neon443/AirAP)  
-       Site: github.com/neon443  
-       - Points: 106  
-       - Author: neon443  
-       - Comments: 11  
-       - Posted: 2 hours ago  
+....
     
     5. **A deep dive into self-improving AI and the Darwin-Gödel Machine**  
        [Read more](https://richardcsuwandi.github.io/blog/2025/dgm/)  

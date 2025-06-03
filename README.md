@@ -126,6 +126,7 @@ use snapshot and not screenshot" --cl 30
 ```
 
 You will obtain a md file with the content you want.
+
     ---
     title: Hacker News - Top 5 Articles
     type: note

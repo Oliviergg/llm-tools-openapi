@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+        "basic-memory": {
+            "command": "uvx",
+            "args": [
+                "basic-memory",
+                "mcp"
+            ]
+        },        
+        "playwright": {
+            "command": "npx",
+            "args": ["-y", "@playwright/mcp@latest"]
+        }
+    }
+}

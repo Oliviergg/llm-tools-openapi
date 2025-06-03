@@ -18,7 +18,7 @@ llm install llm-tools-openapi
 To use this with the [LLM command-line tool](https://llm.datasette.io/en/stable/usage.html):
 
 ```bash
-llm --td --tool --tool 'OpenAPIToolbox(openapi_url="https://your/swagger.json")' 'question your API'
+llm --td --tool 'OpenAPIToolbox(openapi_url="https://your/swagger.json")' 'question your API'
 ```
 
 With the [LLM Python API](https://llm.datasette.io/en/stable/python-api.html):
